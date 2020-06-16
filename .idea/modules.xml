@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/leyou.iml" filepath="$PROJECT_DIR$/leyou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou-common/leyou-common.iml" filepath="$PROJECT_DIR$/leyou-common/leyou-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou-gateway/leyou-gateway.iml" filepath="$PROJECT_DIR$/leyou-gateway/leyou-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou-item1/leyou-item1.iml" filepath="$PROJECT_DIR$/leyou-item1/leyou-item1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou-item1/leyou-item1-interface/leyou-item1-interface.iml" filepath="$PROJECT_DIR$/leyou-item1/leyou-item1-interface/leyou-item1-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou-item1/leyou-item1-service/leyou-item1-service.iml" filepath="$PROJECT_DIR$/leyou-item1/leyou-item1-service/leyou-item1-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou-registry/leyou-registry.iml" filepath="$PROJECT_DIR$/leyou-registry/leyou-registry.iml" />
+    </modules>
+  </component>
+</project>
